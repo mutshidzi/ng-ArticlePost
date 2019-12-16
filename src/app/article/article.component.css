@@ -1,0 +1,20 @@
+.article-card{
+    margin:100px;
+    padding-left:200px;
+}
+
+.article-card .article-points{
+    background: gray;
+    color:#fff;
+    padding-left:20px;
+    border-width:50px;
+}
+
+.article-card .article-vote .upvote{
+  float:left;
+  margin-right:20px;
+}
+
+.article-card .article-vote .upvote{
+    float: left;
+}

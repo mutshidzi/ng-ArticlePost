@@ -1,0 +1,22 @@
+.form-section{
+    margin:100px;
+    padding-left:350px;
+}
+
+.form-section .input-data input{
+    width:500px;
+    height:30px;
+    margin:4px;
+    border-radius: 2px;
+    
+}
+
+.form-section .submit-data button{ 
+    width:200px;
+    height:40px;
+    margin-left:150px;
+    margin-top:4px;
+    border-radius: 2px;
+    background-color:#1d8eb1;
+    color:#ffff;
+}
